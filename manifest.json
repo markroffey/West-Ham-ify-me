@@ -1,7 +1,7 @@
 {
   "name": "West Ham-ify me.",
   "description": "Bringing the famous Claret and Blue to your screen in times of need.",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "permissions": [
     "activeTab"
   ],

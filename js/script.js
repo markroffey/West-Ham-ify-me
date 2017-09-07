@@ -11,7 +11,7 @@
     var randomImageWidth = randomImageHeight * ratio;
 
     var div = document.createElement("div");
-    div.className += 'whufc-block';
+    div.className += 'whufc-block animation';
 
     var divStyle = div.style;
     divStyle.top = getRandomVerticalPosition() + 'px';
